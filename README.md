@@ -2,6 +2,7 @@
 
 <p align="center"> A marketplace for social enterprises.</p>
 
-Video Demo: 
-Link: 
+<p><b>Video Demo</b></p> 
+
+Link: https://youtu.be/yAfMQBNLDpM
 
